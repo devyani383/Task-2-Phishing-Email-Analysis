@@ -51,6 +51,13 @@ http://paypal-account-verification-secure.com
 does not belong to the official PayPal website.
 
 ---
+### Header Analysis Findings
+- Sender domain appears suspicious.
+- Domain does not match the claimed organization.
+- Email authentication could not be verified from the sample.
+
+### Generic Writing Style
+The email uses a generic greeting and non-personalized language, which is common in phishing attacks.
 
 ## Phishing Indicators Found
 
